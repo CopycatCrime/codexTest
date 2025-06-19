@@ -8,4 +8,5 @@ class BotConfig:
         self.token = os.getenv("DISCORD_TOKEN")
         self.cogs = [
         ]
+        
 
